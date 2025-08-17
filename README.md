@@ -176,7 +176,7 @@ Transforms product catalog navigation from tedious keyword search to intuitive n
 - ✅ Semantic search system handling complex technical terminology at global scale
 
 ### 🔗 Implementation
-**[📂 View Code Implementation →](./use-cases/product-advisor/)**
+**[📂 View Code Implementation →](./use-cases/equipment-product-advisor/)**
 
 ---
 
