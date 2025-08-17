@@ -153,7 +153,7 @@ Transforms customer support operations through AI-powered analysis of interactio
 - ✅ Intelligent agent system with context-aware response capabilities
 
 ### 🔗 Implementation
-**[📂 View Code Implementation →](./use-cases/energy-support-agent/)**
+**[📂 View Code Implementation →](./use-cases/retail-customer-service/)**
 
 ---
 
