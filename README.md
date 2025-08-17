@@ -7,13 +7,13 @@ This repository showcases real-world applications of Generative AI that have del
 
 ## 📋 Table of Contents
 
-- [🏦 Personalized Business Reports (Private Banking)](#-personalized-business-reports-private-banking)
-- [🛡️ RAG Knowledge Information Extraction (Insurance)](#️-rag-knowledge-information-extraction-insurance)
-- [🏢 Large Scale Information Classification (Building Management)](#-large-scale-information-classification-building-management)
-- [💼 Invoice Classification & Automation (FinOps)](#-invoice-classification--automation-finops)
-- [⚡ Personalized Billing Summary (Energy & Utilities)](#-personalized-billing-summary-energy--utilities)
-- [🎧 Customer Support Agent (Energy Retail Services)](#-customer-support-agent-energy-retail-services)
-- [🔌 Smart Product Advisor (Electrical Manufacturing)](#-smart-product-advisor-electrical-manufacturing)
+- [🏦 Personalized Business Reports \[PRIVATE BANKING\]](#-personalized-business-reports-private-banking)
+- [🛡️ RAG Knowledge Information Extraction \[INSURANCE\]](#️-rag-knowledge-information-extraction-insurance)
+- [🏢 Large Scale Information Classification \[BUILDING MANAGEMENT\]](#-large-scale-information-classification-building-management)
+- [💼 Invoice Classification & Automation \[FINOPS\]](#-invoice-classification--automation-finops)
+- [⚡ Personalized Billing Summary \[ENERGY & UTILITIES\]](#-personalized-billing-summary-energy--utilities)
+- [🎧 Customer Support Agent \[ENERGY RETAIL SERVICES\]](#-customer-support-agent-energy-retail-services)
+- [🔌 Smart Product Advisor \[ELECTRICAL MANUFACTURING\]](#-smart-product-advisor-electrical-manufacturing)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
