@@ -21,7 +21,7 @@ Welcome to our comprehensive collection of GenAI implementations across diverse 
 
 ## 🏦 Personalized Business Reports (Private Banking)
 
-**Client:** Magic Orange | **Industry:** Financial Services / Private Banking
+**Industry:** Financial Services / Private Banking
 
 ### 🎯 What it does
 Enables private bank customers to generate customized personal account reports through natural language requests with automated delivery. Say goodbye to manual report creation!
