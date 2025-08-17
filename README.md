@@ -39,7 +39,7 @@ Enables private bank customers to generate customized personal account reports t
 - ✅ End-to-end automation from natural language to email delivery
 
 ### 🔗 Implementation
-**[📂 View Code Implementation →](./use-cases/private-banking-reports/)**
+**[📂 View Code Implementation →](./private-banking-reports/)**
 
 ---
 
