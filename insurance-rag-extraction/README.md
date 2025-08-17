@@ -1,4 +1,3 @@
-# ai-use-cases
 
 ---
 
@@ -8,6 +7,8 @@
 
 ### 🎯 What it does
 Assists users in navigating complex insurance policies with contextually relevant, documentation-backed answers tailored to their specific contracts.
+
+![ai-usecase2-flowchart](https://github.com/user-attachments/assets/9fe51f8c-3fee-4488-9944-5fc44dab09b4)
 
 ### 💡 The Challenge
 - Complex insurance policies created confusion for users seeking coverage information
