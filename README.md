@@ -2,7 +2,8 @@
 
 > **Transforming Business Operations with AI-Powered Solutions**
 
-Welcome to our comprehensive collection of GenAI implementations across diverse industries! This repository showcases real-world applications of Generative AI that have delivered measurable business value and technical excellence.
+Welcome to our comprehensive collection of GenAI implementations across diverse industries! <br>
+This repository showcases real-world applications of Generative AI that have delivered measurable business value and technical excellence.
 
 ## 📋 Table of Contents
 
