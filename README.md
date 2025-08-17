@@ -44,7 +44,7 @@ Enables private bank customers to generate customized personal account reports t
 
 ## 🛡️ RAG Knowledge Information Extraction (Insurance)
 
-**Client:** Fidelidade | **Industry:** Insurance / Financial Services
+**Industry:** Insurance / Financial Services
 
 ### 🎯 What it does
 Assists users in navigating complex insurance policies with contextually relevant, documentation-backed answers tailored to their specific contracts.
@@ -67,7 +67,7 @@ Assists users in navigating complex insurance policies with contextually relevan
 
 ## 🏢 Large Scale Information Classification (Building Management)
 
-**Client:** Sodexo | **Industry:** Facilities Management / Real Estate
+**Industry:** Facilities Management / Real Estate
 
 ### 🎯 What it does
 Automates classification of millions of building inspector notes and infers necessary interventions while processing visual inspections for comprehensive facility management.
@@ -90,7 +90,7 @@ Automates classification of millions of building inspector notes and infers nece
 
 ## 💼 Invoice Classification & Automation (FinOps)
 
-**Client:** Engie | **Industry:** Financial Operations / Enterprise Finance
+**Industry:** Financial Operations / Enterprise Finance
 
 ### 🎯 What it does
 Automates classification and metadata extraction from hundreds of thousands of scanned invoices to streamline financial operations and enhance compliance.
@@ -113,7 +113,7 @@ Automates classification and metadata extraction from hundreds of thousands of s
 
 ## ⚡ Personalized Billing Summary (Energy & Utilities)
 
-**Client:** Engie | **Industry:** Energy & Utilities
+**Industry:** Energy & Utilities
 
 ### 🎯 What it does
 Clarifies complex energy bills through personalized explanations and proactive FAQ responses, helping customers understand billing variations and optimize energy consumption.
@@ -136,7 +136,7 @@ Clarifies complex energy bills through personalized explanations and proactive F
 
 ## 🎧 Customer Support Agent (Energy Retail Services)
 
-**Client:** Engie | **Industry:** Energy & Utilities
+**Industry:** Retail
 
 ### 🎯 What it does
 Transforms customer support operations through AI-powered analysis of interactions, automated issue categorization, and deployment of a smart agent delivering tailored, context-rich solutions.
@@ -159,7 +159,7 @@ Transforms customer support operations through AI-powered analysis of interactio
 
 ## 🔌 Smart Product Advisor (Electrical Manufacturing)
 
-**Client:** Schneider Electric | **Industry:** Electrical Manufacturing / Industrial Equipment
+| **Industry:** Electrical Manufacturing / Industrial Equipment
 
 ### 🎯 What it does
 Transforms product catalog navigation from tedious keyword search to intuitive natural language interaction, enabling accurate discovery across hundreds of thousands of highly technical, regionalized products.
@@ -176,7 +176,7 @@ Transforms product catalog navigation from tedious keyword search to intuitive n
 - ✅ Semantic search system handling complex technical terminology at global scale
 
 ### 🔗 Implementation
-**[📂 View Code Implementation →](./use-cases/electrical-product-advisor/)**
+**[📂 View Code Implementation →](./use-cases/product-advisor/)**
 
 ---
 
@@ -270,17 +270,7 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📞 Support & Contact
 
-Need help implementing these use cases? Have questions about the architecture?
-
-- 📧 **Email**: [genai-support@yourcompany.com](mailto:genai-support@yourcompany.com)
-- 💬 **Discussions**: Use GitHub Discussions for community support
-- 🐛 **Issues**: Report bugs via GitHub Issues
-- 📚 **Documentation**: Check our [Wiki](./wiki) for detailed guides
-
----
-
-**Built with ❤️ by the GenAI Solutions Team**
+**Built with ❤️ by the EMEA GenAI Solutions Team**
 
 *Transforming industries, one AI solution at a time* ✨
