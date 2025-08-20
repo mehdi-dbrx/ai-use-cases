@@ -12,7 +12,7 @@ This repository showcases real-world applications of Generative AI that have del
 - [🏢 Large Scale Information Classification \[BUILDING MANAGEMENT\]](#-large-scale-information-classification-building-management)
 - [💼 Invoice Classification & Automation \[FINOPS\]](#-invoice-classification--automation-finops)
 - [⚡ Personalized Billing Summary \[ENERGY & UTILITIES\]](#-personalized-billing-summary-energy--utilities)
-- [🎧 Customer Support Agent \[ENERGY RETAIL SERVICES\]](#-customer-support-agent-energy-retail-services)
+- [🎧 Customer Support Agent \[RETAIL SERVICES\]](#-customer-support-agent-energy-retail-services)
 - [🔌 Smart Product Advisor \[ELECTRICAL MANUFACTURING\]](#-smart-product-advisor-electrical-manufacturing)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Getting Started](#-getting-started)
