@@ -135,7 +135,7 @@ Clarifies complex energy bills through personalized explanations and proactive F
 
 ---
 
-## 🎧 Customer Support Agent (Energy Retail Services)
+## 🎧 Customer Support Agent (Retail Services)
 
 **Industry:** Retail
 
