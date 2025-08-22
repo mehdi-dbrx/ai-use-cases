@@ -14,7 +14,7 @@ This repository showcases real-world applications of Generative AI that have del
 - [⚡ Personalized Billing Summary \[ENERGY & UTILITIES\]](#-personalized-billing-summary-energy--utilities)
 - [🎧 Customer Support Agent \[RETAIL SERVICES\]](#-customer-support-agent-energy-retail-services)
 - [🔌 Smart Product Advisor \[ELECTRICAL MANUFACTURING\]](#-smart-product-advisor-electrical-manufacturing)
-- [🏎️ MCP Agent Hub \[AUTOMOTIVE\]](#-mcp-agent-hub-automotive-industry)
+- [🚘 MCP Agent Hub \[AUTOMOTIVE\]](#-mcp-agent-hub-automotive-industry)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
@@ -182,7 +182,7 @@ Transforms product catalog navigation from tedious keyword search to intuitive n
 
 ---
 
-## 🏎️ MCP Agent Hub (Automotive Industry)
+## 🚘 MCP Agent Hub (Automotive Industry)
 
 | **Industry:** Automotive / Vehicle Manufacturing
 
