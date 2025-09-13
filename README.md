@@ -7,17 +7,19 @@ This repository showcases real-world applications of Generative AI that have del
 
 ## 📋 Table of Contents
 
-- [🏦 Personalized Business Reports \[PRIVATE BANKING\]](#-personalized-business-reports-private-banking)
-- [🛡️ RAG Knowledge Information Extraction \[INSURANCE\]](#️-rag-knowledge-information-extraction-insurance)
-- [🏢 Large Scale Information Classification \[BUILDING MANAGEMENT\]](#-large-scale-information-classification-building-management)
-- [💼 Invoice Classification & Automation \[FINOPS\]](#-invoice-classification--automation-finops)
-- [⚡ Personalized Billing Summary \[ENERGY & UTILITIES\]](#-personalized-billing-summary-energy--utilities)
-- [🎧 Customer Support Agent \[RETAIL SERVICES\]](#-customer-support-agent-energy-retail-services)
-- [🔌 Smart Product Advisor \[ELECTRICAL MANUFACTURING\]](#-smart-product-advisor-electrical-manufacturing)
-- [🚘 MCP Agent Hub \[AUTOMOTIVE\]](#-mcp-agent-hub-automotive-industry)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
+| Service/Feature | Industry Sector | Link |
+|---|---|---|
+| 🏦 Personalized Business Reports | Private Banking | [View](#-personalized-business-reports-private-banking) |
+| 🛡️ RAG Knowledge Information Extraction | Insurance | [View](#️-rag-knowledge-information-extraction-insurance) |
+| 🏢 Large Scale Information Classification | Building Management | [View](#-large-scale-information-classification-building-management) |
+| 💼 Invoice Classification & Automation | FinOps | [View](#-invoice-classification--automation-finops) |
+| ⚡ Personalized Billing Summary | Energy & Utilities | [View](#-personalized-billing-summary-energy--utilities) |
+| 🎧 Customer Support Agent | Retail Services | [View](#-customer-support-agent-energy-retail-services) |
+| 🔌 Smart Product Advisor | Electrical Manufacturing | [View](#-smart-product-advisor-electrical-manufacturing) |
+| 🚘 MCP Agent Hub | Automotive Industry | [View](#-mcp-agent-hub-automotive-industry) |
+| 🛠️ Tech Stack | - | [View](#️-tech-stack) |
+| 🚀 Getting Started | - | [View](#-getting-started) |
+| 🤝 Contributing | - | [View](#-contributing) |
 
 ---
 
