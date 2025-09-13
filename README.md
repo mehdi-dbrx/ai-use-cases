@@ -15,7 +15,7 @@ This repository showcases real-world applications of Generative AI that have del
 | 🏦 Personalized Business Reports | Private Banking | [View](#-personalized-business-reports-private-banking) |
 | 🛡️ RAG Knowledge Information Extraction | Insurance | [View](#️-terms&services-assistant-insurance) |
 | 🏢 Large Scale Information Classification | Building Management | [View](#-large-scale-information-classification-building-management) |
-| 💼 Invoice Classification & Automation | FinOps | [View](#-invoice-classification-automation-finops) |
+| 💼 Invoice Classification & Automation | FinOps | [View](#-invoice-classification--automation-finops) |
 | ⚡ Personalized Billing Summary | Energy & Utilities | [View](#-personalized-billing-summary-energy-utilities) |
 | 🎧 Customer Support Agent | Retail Services | [View](#-customer-support-agent-energy-retail-services) |
 | 🔌 Smart Product Advisor | Electrical Manufacturing | [View](#-smart-product-advisor-electrical-manufacturing) |
