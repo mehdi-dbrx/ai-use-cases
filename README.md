@@ -7,7 +7,7 @@ This repository showcases real-world applications of Generative AI that have del
 
 ## 📋 Table of Contents
 
-| Service/Feature | Industry Sector | Link |
+| Service/Feature | Industry Sector |  |
 |---|---|---|
 | 🏦 Personalized Business Reports | Private Banking | [View](#-personalized-business-reports-private-banking) |
 | 🛡️ RAG Knowledge Information Extraction | Insurance | [View](#️-rag-knowledge-information-extraction-insurance) |
@@ -21,6 +21,13 @@ This repository showcases real-world applications of Generative AI that have del
 | 🚀 Getting Started | - | [View](#-getting-started) |
 | 🤝 Contributing | - | [View](#-contributing) |
 
+|  |  |  |
+|---|---|---|
+| 🛠️ Tech Stack | - | [View](#️-tech-stack) |
+| 🚀 Getting Started | - | [View](#-getting-started) |
+| 🤝 Contributing | - | [View](#-contributing) |
+
+---
 ---
 
 ## 🏦 Personalized Business Reports (Private Banking)
