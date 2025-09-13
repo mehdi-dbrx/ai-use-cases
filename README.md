@@ -17,17 +17,12 @@ This repository showcases real-world applications of Generative AI that have del
 | 🎧 Customer Support Agent | Retail Services | [View](#-customer-support-agent-energy-retail-services) |
 | 🔌 Smart Product Advisor | Electrical Manufacturing | [View](#-smart-product-advisor-electrical-manufacturing) |
 | 🚘 MCP Agent Hub | Automotive Industry | [View](#-mcp-agent-hub-automotive-industry) |
-| 🛠️ Tech Stack | - | [View](#️-tech-stack) |
-| 🚀 Getting Started | - | [View](#-getting-started) |
-| 🤝 Contributing | - | [View](#-contributing) |
-
-|  |  |  |
-|---|---|---|
-| 🛠️ Tech Stack | - | [View](#️-tech-stack) |
-| 🚀 Getting Started | - | [View](#-getting-started) |
-| 🤝 Contributing | - | [View](#-contributing) |
-
 ---
+
+|---|---|
+| 🛠️ Tech Stack | [View](#️-tech-stack) |
+| 🚀 Getting Started | [View](#-getting-started) |
+| 🤝 Contributing | [View](#-contributing) |
 ---
 
 ## 🏦 Personalized Business Reports (Private Banking)
